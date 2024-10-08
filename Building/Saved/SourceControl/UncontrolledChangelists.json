@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/levels/A.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/Levels/P_Building.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_Floor.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_Roof.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_Stairs.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_TopSupport.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_Walls.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/01_Models/Arquitecture/SM_Architecture_Windows.uasset",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/Levels/L_Building.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/Levels/Geo_Building.umap",
+				"C:/Users/Alumno/Documents/Unreal Projects/Building/Content/Levels/VFX_Building.umap"
+			]
+		}
+	]
+}
