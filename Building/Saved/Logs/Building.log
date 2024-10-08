@@ -1659,3 +1659,88 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.10.08-17.29.55:976][627]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.08-17.29.55:976][627]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/P_Building.P_Building
 [2024.10.08-17.29.55:976][627]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/VFX_Building.VFX_Building
+[2024.10.08-17.32.13:992][331]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alumno\Documents\3ds Max 2025\export\SM_Column.fbx)
+[2024.10.08-17.32.13:996][331]LogFbx: Loading FBX Scene from C:\Users\Alumno\Documents\3ds Max 2025\export\SM_Column.fbx
+[2024.10.08-17.32.14:002][331]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.08-17.32.15:768][331]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.08-17.32.15:838][331]LogFbx: Display: Triangulating static mesh SM_Colum
+[2024.10.08-17.32.15:848][331]LogStaticMesh: Display: Building static mesh SM_Column...
+[2024.10.08-17.32.15:853][331]LogStaticMesh: Built static mesh [0.00s] /Game/01_Models/Props/SM_Column/SM_Column.SM_Column
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: ================================================
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: Total job queries 26, among them cache hits 22 (84.62%)
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: RAM used: 81,75 KiB of 1,60 GiB budget. Usage: 0.00%
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.08-17.32.16:066][337]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.53 s
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Job life time (pending + execution): average 0.50 s, max 0.53
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Shader code size: average 33,89 KiB, min 29,711 KiB, max 35,891 KiB
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.53 s
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Average processing rate: 7.58 jobs/sec
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Total thread time: 0,694 s
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Total thread preprocess time: 0,094 s
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Percentage time preprocessing: 13.55%
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Effective parallelization: 1.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.29% of total time (compiled    1 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.59% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                                 FLumenCardVS - 27.11% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.02% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.10.08-17.32.16:067][337]LogShaderCompilers: Display: ================================================
+[2024.10.08-17.32.30:822][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.10.08-17.32.31:795][195]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.08-17.32.31:802][195]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/01_Models/Props/SM_Column/BasicShapeMaterial.BasicShapeMaterial
+	Asset Type: Material
+[2024.10.08-17.32.31:886][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.08-17.32.31:889][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.10.08-17.32.31:892][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.10.08-17.32.38:538][515]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alumno\Documents\3ds Max 2025\export\SM_Bag.fbx)
+[2024.10.08-17.32.38:544][515]LogFbx: Loading FBX Scene from C:\Users\Alumno\Documents\3ds Max 2025\export\SM_Bag.fbx
+[2024.10.08-17.32.38:549][515]LogFbx: FBX Scene Loaded Succesfully
+[2024.10.08-17.32.39:554][515]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.10.08-17.32.39:621][515]LogStaticMesh: Display: Building static mesh SM_Bag...
+[2024.10.08-17.32.39:623][515]LogStaticMesh: Built static mesh [0.00s] /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag
+[2024.10.08-17.32.42:544][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.08-17.32.44:164][683]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.08-17.32.44:170][683]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/01_Models/Props/SM_Bag/Fbx_Default_Material.Fbx_Default_Material
+	Asset Type: Material
+[2024.10.08-17.32.44:251][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.08-17.32.44:254][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.10.08-17.32.44:256][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.10.08-17.32.50:149][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column
+[2024.10.08-17.32.50:149][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column
+[2024.10.08-17.32.50:149][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column as actor: StaticMeshActor /Game/Levels/P_Building.P_Building:PersistentLevel.StaticMeshActor_1
+[2024.10.08-17.32.51:430][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column
+[2024.10.08-17.32.51:430][219]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column
+[2024.10.08-17.32.51:431][219]LogActorFactory: Actor Factory spawned StaticMesh /Game/01_Models/Props/SM_Column/SM_Column.SM_Column as actor: StaticMeshActor /Game/Levels/P_Building.P_Building:PersistentLevel.StaticMeshActor_2
+[2024.10.08-17.33.19:150][581]LogViewport: Scene viewport resized to 505x284, mode Windowed.
+[2024.10.08-17.33.28:803][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag
+[2024.10.08-17.33.28:803][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag
+[2024.10.08-17.33.28:803][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag as actor: StaticMeshActor /Game/Levels/P_Building.P_Building:PersistentLevel.StaticMeshActor_3
+[2024.10.08-17.33.32:744][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag
+[2024.10.08-17.33.32:745][663]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag
+[2024.10.08-17.33.32:745][663]LogActorFactory: Actor Factory spawned StaticMesh /Game/01_Models/Props/SM_Bag/SM_Bag.SM_Bag as actor: StaticMeshActor /Game/Levels/P_Building.P_Building:PersistentLevel.StaticMeshActor_4
+[2024.10.08-17.33.35:260][868]LogViewport: Scene viewport resized to 505x284, mode Windowed.
+[2024.10.08-17.33.48:525][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.08-17.33.48:526][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.08-17.33.48:529][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.08-17.33.48:530][  1]LogEditorActor: Deleted 2 Actors (0.005 secs)
+[2024.10.08-17.36.55:367][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.08-17.36.55:427][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.10.08-17.36.55:431][ 95]LogSavePackage: Moving output files for package: /Game/Levels/Geo_Building
+[2024.10.08-17.36.55:431][ 95]LogSavePackage: Moving '../../../../../../Users/Alumno/Documents/Unreal Projects/Building/Saved/Geo_BuildingCD4707144D220B22CD33AA8F8BA0C5D8.tmp' to '../../../../../../Users/Alumno/Documents/Unreal Projects/Building/Content/Levels/Geo_Building.umap'
+[2024.10.08-17.36.55:437][ 95]LogFileHelpers: Saving map 'Geo_Building' took 0.013
+[2024.10.08-17.36.55:441][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.30 sec)
+[2024.10.08-17.36.55:441][ 95]AssetCheck: New page: Asset Save: Geo_Building
+[2024.10.08-17.36.55:442][ 95]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Geo_Building.Geo_Building
