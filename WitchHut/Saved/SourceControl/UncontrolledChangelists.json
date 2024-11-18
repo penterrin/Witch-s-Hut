@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/Levels/VFX_WitchHut.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/Levels/P_WitchHut.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/Levels/L_WitchHut.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/Levels/GEO_WitchHut.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/WitchHut.umap",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Interior.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Techo.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Exterior001.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Floor002.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Box078.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Box076.uasset",
+				"C:/Users/Usuario/Documents/Unreal Projects/WitchHut/Content/01_Models/Architecture/SM_Architecture_SM_Box077.uasset"
+			]
+		}
+	]
+}
